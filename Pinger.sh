@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 log_file="/home/stephen/Documents/Pinger/Log.txt"
 
 > "$log_file"
@@ -12,4 +11,6 @@ for i in {11..25}; do
     else 
         echo "error" | tee -a "$log_file"
     fi
+    echo "" >> "$log_file"
+    
 done
