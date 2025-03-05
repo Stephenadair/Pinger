@@ -1,120 +1,118 @@
 PING 192.168.1.11 (192.168.1.11) 56(84) bytes of data.
-64 bytes from 192.168.1.11: icmp_seq=1 ttl=64 time=1.44 ms
+64 bytes from 192.168.1.11: icmp_seq=1 ttl=64 time=0.636 ms
 
 --- 192.168.1.11 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 1.435/1.435/1.435/0.000 ms
+rtt min/avg/max/mdev = 0.636/0.636/0.636/0.000 ms
 Pinged cybernet 11
 
 PING 192.168.1.12 (192.168.1.12) 56(84) bytes of data.
-64 bytes from 192.168.1.12: icmp_seq=1 ttl=64 time=1.29 ms
+64 bytes from 192.168.1.12: icmp_seq=1 ttl=64 time=0.582 ms
 
 --- 192.168.1.12 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 1.288/1.288/1.288/0.000 ms
+rtt min/avg/max/mdev = 0.582/0.582/0.582/0.000 ms
 Pinged cybernet 12
 
 PING 192.168.1.13 (192.168.1.13) 56(84) bytes of data.
-64 bytes from 192.168.1.13: icmp_seq=1 ttl=64 time=1.43 ms
+64 bytes from 192.168.1.13: icmp_seq=1 ttl=64 time=0.611 ms
 
 --- 192.168.1.13 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 1.425/1.425/1.425/0.000 ms
+rtt min/avg/max/mdev = 0.611/0.611/0.611/0.000 ms
 Pinged cybernet 13
 
 PING 192.168.1.14 (192.168.1.14) 56(84) bytes of data.
-64 bytes from 192.168.1.14: icmp_seq=1 ttl=64 time=1.70 ms
+64 bytes from 192.168.1.14: icmp_seq=1 ttl=64 time=0.584 ms
 
 --- 192.168.1.14 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 1.695/1.695/1.695/0.000 ms
+rtt min/avg/max/mdev = 0.584/0.584/0.584/0.000 ms
 Pinged cybernet 14
 
 PING 192.168.1.15 (192.168.1.15) 56(84) bytes of data.
-64 bytes from 192.168.1.15: icmp_seq=1 ttl=64 time=1.34 ms
+64 bytes from 192.168.1.15: icmp_seq=1 ttl=64 time=0.426 ms
 
 --- 192.168.1.15 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 1.340/1.340/1.340/0.000 ms
+rtt min/avg/max/mdev = 0.426/0.426/0.426/0.000 ms
 Pinged cybernet 15
 
 PING 192.168.1.16 (192.168.1.16) 56(84) bytes of data.
-64 bytes from 192.168.1.16: icmp_seq=1 ttl=64 time=1.57 ms
+64 bytes from 192.168.1.16: icmp_seq=1 ttl=64 time=0.516 ms
 
 --- 192.168.1.16 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 1.571/1.571/1.571/0.000 ms
+rtt min/avg/max/mdev = 0.516/0.516/0.516/0.000 ms
 Pinged cybernet 16
 
 PING 192.168.1.17 (192.168.1.17) 56(84) bytes of data.
-64 bytes from 192.168.1.17: icmp_seq=1 ttl=64 time=1.51 ms
+64 bytes from 192.168.1.17: icmp_seq=1 ttl=64 time=0.747 ms
 
 --- 192.168.1.17 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 1.505/1.505/1.505/0.000 ms
+rtt min/avg/max/mdev = 0.747/0.747/0.747/0.000 ms
 Pinged cybernet 17
 
 PING 192.168.1.18 (192.168.1.18) 56(84) bytes of data.
-64 bytes from 192.168.1.18: icmp_seq=1 ttl=64 time=1.29 ms
+64 bytes from 192.168.1.18: icmp_seq=1 ttl=64 time=0.631 ms
 
 --- 192.168.1.18 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 1.289/1.289/1.289/0.000 ms
+rtt min/avg/max/mdev = 0.631/0.631/0.631/0.000 ms
 Pinged cybernet 18
 
 PING 192.168.1.19 (192.168.1.19) 56(84) bytes of data.
-64 bytes from 192.168.1.19: icmp_seq=1 ttl=64 time=1.44 ms
 
 --- 192.168.1.19 ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 1.438/1.438/1.438/0.000 ms
-Pinged cybernet 19
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+error
 
 PING 192.168.1.20 (192.168.1.20) 56(84) bytes of data.
-64 bytes from 192.168.1.20: icmp_seq=1 ttl=64 time=1.45 ms
 
 --- 192.168.1.20 ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 1.449/1.449/1.449/0.000 ms
-Pinged cybernet 20
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+error
 
 PING 192.168.1.21 (192.168.1.21) 56(84) bytes of data.
-64 bytes from 192.168.1.21: icmp_seq=1 ttl=64 time=1.11 ms
+64 bytes from 192.168.1.21: icmp_seq=1 ttl=64 time=0.408 ms
 
 --- 192.168.1.21 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 1.107/1.107/1.107/0.000 ms
+rtt min/avg/max/mdev = 0.408/0.408/0.408/0.000 ms
 Pinged cybernet 21
 
 PING 192.168.1.22 (192.168.1.22) 56(84) bytes of data.
-64 bytes from 192.168.1.22: icmp_seq=1 ttl=64 time=1.20 ms
+64 bytes from 192.168.1.22: icmp_seq=1 ttl=64 time=0.509 ms
 
 --- 192.168.1.22 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 1.202/1.202/1.202/0.000 ms
+rtt min/avg/max/mdev = 0.509/0.509/0.509/0.000 ms
 Pinged cybernet 22
 
 PING 192.168.1.23 (192.168.1.23) 56(84) bytes of data.
-64 bytes from 192.168.1.23: icmp_seq=1 ttl=64 time=1.26 ms
+64 bytes from 192.168.1.23: icmp_seq=1 ttl=64 time=2.16 ms
 
 --- 192.168.1.23 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 1.255/1.255/1.255/0.000 ms
+rtt min/avg/max/mdev = 2.157/2.157/2.157/0.000 ms
 Pinged cybernet 23
 
 PING 192.168.1.24 (192.168.1.24) 56(84) bytes of data.
-64 bytes from 192.168.1.24: icmp_seq=1 ttl=64 time=1.35 ms
+64 bytes from 192.168.1.24: icmp_seq=1 ttl=64 time=0.664 ms
 
 --- 192.168.1.24 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 1.347/1.347/1.347/0.000 ms
+rtt min/avg/max/mdev = 0.664/0.664/0.664/0.000 ms
 Pinged cybernet 24
 
 PING 192.168.1.25 (192.168.1.25) 56(84) bytes of data.
-64 bytes from 192.168.1.25: icmp_seq=1 ttl=64 time=0.978 ms
+64 bytes from 192.168.1.25: icmp_seq=1 ttl=64 time=0.488 ms
 
 --- 192.168.1.25 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 0.978/0.978/0.978/0.000 ms
+rtt min/avg/max/mdev = 0.488/0.488/0.488/0.000 ms
 Pinged cybernet 25
 

@@ -12,5 +12,6 @@ for i in {11..25}; do
         echo "error" | tee -a "$log_file"
     fi
     echo "" >> "$log_file"
-    
+
 done
+
